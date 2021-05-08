@@ -12,7 +12,8 @@
 .nav {
     font-family: 'Roboto', sans-serif;
     position:fixed;
-    background-color: rgba(255, 255, 255, 0.89);
+    background-color: rgba(255, 255, 255, 0.356);
+    width: 100%;
 }
 
 .nav i {
